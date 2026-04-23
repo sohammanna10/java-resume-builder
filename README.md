@@ -60,6 +60,3 @@ This project requires Apache POI library for document generation.
 * Multiple resume templates
 * PDF export option
 
-## 👨‍💻 Authors
-
-Soham Manna & Team
